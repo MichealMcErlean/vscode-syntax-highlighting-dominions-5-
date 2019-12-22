@@ -1,0 +1,25 @@
+{
+    "name": "syntax-highlighting-for-dominions-5-mods",
+    "displayName": "Syntax Highlighting for Dominions 5 mods",
+    "description": "Provides syntax highlighting for mods for the game Dominions 5",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.41.0"
+    },
+    "categories": [
+        "Programming Languages"
+    ],
+    "contributes": {
+        "languages": [{
+            "id": "dominionsmod",
+            "aliases": ["Dominions 5 Mod", "dominionsmod"],
+            "extensions": [".dm"],
+            "configuration": "./language-configuration.json"
+        }],
+        "grammars": [{
+            "language": "dominionsmod",
+            "scopeName": "source.dominionsmod",
+            "path": "./syntaxes/dominionsmod.tmLanguage.json"
+        }]
+    }
+}

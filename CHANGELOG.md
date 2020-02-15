@@ -6,5 +6,10 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## Unreleased
 
+## 1.1.0
+- Add a bunch of the new commands
+- Fix earthblessbonus bug (it was a typo in the manual)
+- Add undocumented mindvessel
+
 ## 1.0.0
 - Initial release

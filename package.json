@@ -2,7 +2,7 @@
     "name": "syntax-highlighting-for-dominions-5-mods",
     "displayName": "Syntax Highlighting for Dominions 5 mods",
     "description": "Provides syntax highlighting for mods for the game Dominions 5",
-    "version": "1.2.0",
+    "version": "1.2.1",
     "publisher": "djmcgill",
     "repository": {
         "type": "git",

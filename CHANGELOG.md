@@ -6,6 +6,9 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## Unreleased
 
+## 1.2.1
+- Add new commands drawsize, itemdrawsize, reqplant, reqnoplant
+
 ## 1.1.0
 - Add a bunch of the new commands
 - Fix earthblessbonus bug (it was a typo in the manual)

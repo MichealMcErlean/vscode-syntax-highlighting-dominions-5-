@@ -15,7 +15,7 @@
     ],
     "folding": {
         "markers": {
-            "start": "#(select|new)",
+            "start": "#(select|new(?!dom))",
             "end": "#end"
         }
     }
